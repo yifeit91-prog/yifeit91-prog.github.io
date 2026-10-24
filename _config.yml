@@ -1,9 +1,11 @@
-title: 你的名字 · 个人博客
-description: 一个可以持续写作的个人博客
+title: Yifei · 个人博客
+description: 记录学习、写作和做过的小项目
 lang: zh-CN
-timezone: Asia/Singapore
+timezone: Asia/Shanghai
 markdown: kramdown
 permalink: /posts/:title/
+url: "https://yifeit91-prog.github.io"
+baseurl: ""
 exclude:
   - README.md
   - Gemfile
